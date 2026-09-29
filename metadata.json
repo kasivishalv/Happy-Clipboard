@@ -1,0 +1,6 @@
+{
+  "name": "Happy Clipboard",
+  "description": "Privacy-focused, offline-first Android clipboard manager with automatic capture, smart categorization, date filtering, collections, and encrypted backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
